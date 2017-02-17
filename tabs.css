@@ -1,0 +1,14 @@
+nav div
+{
+    background-color: skyblue;
+    border-style: solid;
+}
+
+.navigation {
+  text-decoration: none;
+  color: red;
+}
+
+.nav_tab:hover {
+    color: yellow;
+}
